@@ -6,4 +6,12 @@
 <br>
 <br>
 <br>
- - Connect with me:
+
+
+ - My Stats <br> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanvictor-santos&show_icons=true&theme=highcontrast) <br> <br>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanvictor-santos&layout=compact&theme=highcontrast)
+ <br>
+ <br>
+
+  In progress... :hammer:
