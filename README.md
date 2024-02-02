@@ -5,7 +5,10 @@
 <p>💻 I like solving problems and facing challenges head on. I'm not afraid to ask questions, learn from mistakes and look for solutions. Every question is a learning opportunity!<p>
 <br>
 
-
+Contact:<br>
+<a href="https://www.linkedin.com/in/yan-victor-santos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/></a>
+<br>
+<br>
 Languages/Tools:<br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,7 +18,7 @@ Languages/Tools:<br>
    <br>
    
  - My Stats <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanvictor-santos&show_icons=true&theme=highcontrast) <br> <br>
+![Yan Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=yanvictor-santos&show_icons=true&theme=highcontrast) <br> <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanvictor-santos&layout=compact&theme=highcontrast)
  <br>
  <br>
